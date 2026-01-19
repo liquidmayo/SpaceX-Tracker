@@ -1,0 +1,5 @@
+{
+  "name": "SpaceX Launch Tracker",
+  "description": "Real-time launch schedule and countdown timer for SpaceX missions using the official API.",
+  "requestFramePermissions": []
+}
